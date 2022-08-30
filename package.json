@@ -1,0 +1,11 @@
+{
+    "name": "@4 Tanner Street",
+    "version": "1.0.0",
+    "description": "Website for 24 Tanner Street",
+    "scripts": {
+      "serve": "http-server -c-1"  
+    },
+    "dependencies": {
+		"http-server": "^14.1.1"
+	}
+}
