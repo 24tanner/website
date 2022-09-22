@@ -1,0 +1,1 @@
+To Run locally, pnpm install then pnpm serve
